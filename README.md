@@ -23,6 +23,9 @@ The dashboard provides a consolidated view of sales performance and customer-rel
 - **Size:** 30,000 rows × 39 columns
 - **Format:** Excel
 - **Fields:** Product_Category, Brand, Sport_Type, Quantity, Unit_Price, Discount_Percent, Discount_Amount, Sales_Amount, Final_Amount, Cost_Price, Profit, Store_ID, Store_Name, Payment_Method, Order_Date, and other sales-related fields
+- **Note:** Raw dataset not included — sourced from a DataCliq training dataset. Full working Excel file is available below.
+
+📂 [Download Excel file (.xlsx)](Decathlon.xlsx)
 
 ## Data Cleaning & Preparation
 
